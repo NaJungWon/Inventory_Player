@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32574700e3c322459e2fc018e5ec247, type: 3}
+  m_Name: 1_Stage
+  m_EditorClassIdentifier: 
+  stageNumber: 1
+  maxWaveNumber: 7
+  stageName: Goblin Cave
+  spawnDataList:
+  - currentWaveNumber: 1
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: e7edd495aaacdf44eb2ea46059952ff7, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 1
+    triggerTime: 5
+    monsterInfo: {fileID: 11400000, guid: e7edd495aaacdf44eb2ea46059952ff7, type: 2}
+    monsterType: 1
+    MonsterCount: 3
+  - currentWaveNumber: 2
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: e7edd495aaacdf44eb2ea46059952ff7, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 3
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: e7edd495aaacdf44eb2ea46059952ff7, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 4
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: fb8307900d0f3054cb2128b3c11c1498, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 5
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 0325e8cfe7d5ce5419e996acd294353f, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 6
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 3988d38e9ee81f1478eaff45f5a5bf1d, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 7
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 41180cea7e49898488cab440816448ca, type: 2}
+    monsterType: 1
+    MonsterCount: 1

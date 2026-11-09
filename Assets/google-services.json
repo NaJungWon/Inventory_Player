@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "605420982607",
+    "firebase_url": "https://inventoryplayer-2088018-ee8ba-default-rtdb.firebaseio.com",
+    "project_id": "inventoryplayer-2088018-ee8ba",
+    "storage_bucket": "inventoryplayer-2088018-ee8ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605420982607:android:7b9241466e29624330b53a",
+        "android_client_info": {
+          "package_name": "com.company.bluesea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJ7rXJQFMkDexhNUe24f9YVoaUFas7Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

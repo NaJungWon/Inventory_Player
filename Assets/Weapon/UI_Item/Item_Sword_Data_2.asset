@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae581a956dfb114ab8213f83437e1c0, type: 3}
+  m_Name: Item_Sword_Data_2
+  m_EditorClassIdentifier: 
+  itemName: "\uAC80_2"
+  itemLevel: 1
+  itemType: 0
+  itemImages:
+  - {fileID: 21300000, guid: bee1883fa0772b34daabc8fca02fc160, type: 3}
+  - {fileID: 21300000, guid: 6446fb73d7aee5f4d80314c711dc3edb, type: 3}
+  - {fileID: 21300000, guid: a7ea5e85bd3717f4f9dc1052d309f9b0, type: 3}
+  - {fileID: 21300000, guid: 532b2b05f1596204b8e69056b203c3b8, type: 3}
+  - {fileID: 21300000, guid: 81d82a21ea9f6fc489e4b6123394f017, type: 3}
+  weaponType: 1
+  itemValue: 50
+  itemCooldown: 0.5
+  item: {fileID: 3249106525333139651, guid: e5730a8ab49036e4a9b72661966663dd, type: 3}
+  battleItem: {fileID: 7224518940385693497, guid: bba4d187c70a364448b83da7a778fcde, type: 3}

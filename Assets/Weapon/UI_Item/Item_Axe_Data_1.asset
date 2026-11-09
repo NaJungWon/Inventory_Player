@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae581a956dfb114ab8213f83437e1c0, type: 3}
+  m_Name: Item_Axe_Data_1
+  m_EditorClassIdentifier: 
+  itemName: "\uB3C4\uB07C"
+  itemLevel: 1
+  itemType: 0
+  itemImages:
+  - {fileID: 21300000, guid: c730762b579e536489d60b13c97d9aba, type: 3}
+  - {fileID: 21300000, guid: 9efd91bd84b28fc42a379040bea511b3, type: 3}
+  - {fileID: 21300000, guid: cdf5a198f8004e347b5e99738d01f69e, type: 3}
+  - {fileID: 21300000, guid: 4a914e50c1946c54686bd9deba05ce1d, type: 3}
+  - {fileID: 21300000, guid: 0eaa4e165a6bc944281d8762309dc982, type: 3}
+  weaponType: 1
+  itemValue: 80
+  itemCooldown: 1
+  item: {fileID: 3249106525333139651, guid: 4edaa5dd166225c4faf85dfe4e8e2491, type: 3}
+  battleItem: {fileID: 7224518940385693497, guid: 30be1d8b3af39da4f8030bdc26784e27, type: 3}

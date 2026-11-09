@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32574700e3c322459e2fc018e5ec247, type: 3}
+  m_Name: 2_Stage
+  m_EditorClassIdentifier: 
+  stageNumber: 2
+  maxWaveNumber: 7
+  stageName: Cemetery
+  spawnDataList:
+  - currentWaveNumber: 1
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 1f7e4d563cc31d94b92735f2a265056d, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 2
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 1f7e4d563cc31d94b92735f2a265056d, type: 2}
+    monsterType: 1
+    MonsterCount: 2
+  - currentWaveNumber: 3
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: caa6cf2ef2f829f43b072b421baf9802, type: 2}
+    monsterType: 1
+    MonsterCount: 7
+  - currentWaveNumber: 4
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 34f905eaf1442784980f83e213d7ac80, type: 2}
+    monsterType: 1
+    MonsterCount: 3
+  - currentWaveNumber: 5
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: 34f905eaf1442784980f83e213d7ac80, type: 2}
+    monsterType: 1
+    MonsterCount: 3
+  - currentWaveNumber: 5
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: f0d6500c9bd28474ebc57fc137bb78a3, type: 2}
+    monsterType: 1
+    MonsterCount: 3
+  - currentWaveNumber: 6
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: c80b401e825efc54e80c9b0c3e1aacb2, type: 2}
+    monsterType: 1
+    MonsterCount: 7
+  - currentWaveNumber: 7
+    triggerTime: 0
+    monsterInfo: {fileID: 11400000, guid: c80b401e825efc54e80c9b0c3e1aacb2, type: 2}
+    monsterType: 1
+    MonsterCount: 4
+  - currentWaveNumber: 7
+    triggerTime: 3
+    monsterInfo: {fileID: 11400000, guid: 10420ad15bfd6624bbaa6d23c27b0448, type: 2}
+    monsterType: 2
+    MonsterCount: 1
