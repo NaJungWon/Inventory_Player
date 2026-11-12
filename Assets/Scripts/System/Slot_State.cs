@@ -23,8 +23,8 @@ public class Slot_State : MonoBehaviour
         Locked,
         Occupied
     }
-    // Start is called before the first frame update
-    void Start()
+    // 비활성 상태로 시작한 슬롯도 SetActive(true) 즉시 image를 잡도록 Awake 사용
+    void Awake()
     {
         image = GetComponent<Image>();
         if (image != null)
